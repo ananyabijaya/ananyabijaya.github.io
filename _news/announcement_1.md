@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-3-14 00:00:00
 inline: true
 ---
 
-A simple inline announcement.
+**Paper alert**. [Reduced-dimensional phase field theory for lattice fracture and its application in fracture toughness assessment of architected materials](https://www.sciencedirect.com/science/article/pii/S0997753823000566?via%3Dihub)

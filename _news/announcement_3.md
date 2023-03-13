@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-12-14 00:00:00
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+**Paper alert**. [Multiscale phase-field approach for investigation of anisotropic fracture properties of architected materials](https://linkinghub.elsevier.com/retrieve/pii/S0167663622002927)
+
+<!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: A long announcement with details
 date: 2015-11-07 16:11:00-0400
@@ -15,7 +15,7 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 <ul>
     <li>brunch</li>
     <li>fixie</li>
-    <li>raybans</li>
+    <li>raybans</li>a
     <li>messenger bag</li>
 </ul>
 
@@ -29,3 +29,4 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 > —Anais Nin
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+ -->
